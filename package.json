@@ -1,0 +1,22 @@
+{
+  "license": "MIT",
+  "name": "linter-OpenEdge",
+  "main": "./lib/index.js",
+  "version": "0.20.1",
+  "description": "prohibis Linter Package",
+  "keywords": ["linter-example", "example"],
+  "package-deps": ["linter"],
+  "author": {
+    "name": "mimo74"
+  },
+  "engines": {
+    "atom": "*"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "2.0.0": "provideLinter"
+      }
+    }
+  }
+}
