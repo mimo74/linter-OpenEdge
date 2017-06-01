@@ -2,7 +2,7 @@
   "license": "MIT",
   "name": "linter-OpenEdge",
   "main": "./lib/index.js",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "description": "prohibis Linter Package",
   "keywords": [
     "linter-example",
