@@ -5,8 +5,8 @@
   "version": "0.25.0",
   "description": "prohibis Linter Package",
   "keywords": [
-    "linter-example",
-    "example"
+    "prohibis",
+    "linter"
   ],
   "package-deps": [
     "linter"
