@@ -17,6 +17,8 @@
   "engines": {
     "atom": "*"
   },
+  "homepage": "https://github.com/mimo74/linter-OpenEdge.git#readme",
+  "readme": "./README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mimo74/linter-OpenEdge.git"
