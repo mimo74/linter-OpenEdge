@@ -2,10 +2,15 @@
   "license": "MIT",
   "name": "linter-OpenEdge",
   "main": "./lib/index.js",
-  "version": "0.20.1",
+  "version": "0.21.0",
   "description": "prohibis Linter Package",
-  "keywords": ["linter-example", "example"],
-  "package-deps": ["linter"],
+  "keywords": [
+    "linter-example",
+    "example"
+  ],
+  "package-deps": [
+    "linter"
+  ],
   "author": {
     "name": "mimo74"
   },
@@ -13,8 +18,8 @@
     "atom": "*"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/mimo74/linter-OpenEdge.git"
+    "type": "git",
+    "url": "git+https://github.com/mimo74/linter-OpenEdge.git"
   },
   "providedServices": {
     "linter": {
